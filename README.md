@@ -11,6 +11,8 @@ A Beginner-console level application made using Java in Spring Tool Suite (STS).
 
 **NOTE: The main method can be found in the Control class which is present in ParkingLot Package.**
 
+the main method can be found at - parkingTicketIssuingApplication / src / com / ParkingLot / Control.java
+
 
 
 Thank You
