@@ -1,7 +1,7 @@
 # Parking-Ticket-Issuing-Application
 
 A Beginner-console level application made using Java in Spring Tool Suite (STS).
-. This project idea is taken from a free code Camp blog - https://www.freecodecamp.org/news/java-project-parking-lot-management-system/
+- This project idea is taken from a free code Camp blog - https://www.freecodecamp.org/news/java-project-parking-lot-management-system/
 
 
 - New Suggestions/Ideas to implement in this Project/Application are always welcome.
